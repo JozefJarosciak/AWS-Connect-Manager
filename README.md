@@ -10,11 +10,11 @@ Configuration Screen
 
 ## Prerequisites
 - .NET Framework 4.7.2 installed on Windows
-- AWS CLI
-- AWS Credential File (.aws/credentials)
-- Session Manager plugin for the AWS CLI
-- WinSCP
-- ConEmu (auto packaged in the Winndows download)
+- AWS CLI - https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
+- AWS Credential File (.aws/credentials) - https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
+- Session Manager plugin for the AWS CLI - https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html
+- WinSCP - https://winscp.net/eng/download.php
+- ConEmu (auto packaged in the Winndows download), if you want to use your own version, download here: https://conemu.github.io/
 
 # Application Download
 You can download the yhe initial release of AWS Connect Manager for Windows (v1.0.0) in zip format from GitHub release page:
