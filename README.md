@@ -16,6 +16,18 @@
 - WinSCP - https://winscp.net/eng/download.php
 - ConEmu (auto packaged in the Winndows download), if you want to use your own version, download here: https://conemu.github.io/
 
+# WinSCP Prerequisite:
+Integration with WinSCP needs some work, it currently requires a manual setup of the new WinSCP connection in WinSCP, which must be configured as follows: 
+- Connection Name: AWS
+- File Protocol: SCP
+- Host Name: localhost
+- Port: 54321
+- User Name: root
+Note: If you want SCP auto-login, you need to configure advanced settings and under SSH / Authentication, configure the path to your private key PPK file (also needs to be concigured on the server.
+
+# RDP Auto-Login
+- If you want RDP to auto login to your Windows servers, enter RDP credentials into configuration screen. Just be aware, that currently these credentials will be saved into application config file (unencrypted flat file).
+
 # Application Download
 - You can download the yhe initial release of AWS Connect Manager for Windows (v1.0.0) in zip format from GitHub release page:
 - https://github.com/JozefJarosciak/AWS-Connect-Manager/releases/download/v1.0.0/AWS_Connect_Manager-1.0.0.zip
