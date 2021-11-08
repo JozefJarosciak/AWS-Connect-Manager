@@ -1,13 +1,13 @@
 # AWS Connect Manager
 - Open-source Windows tool to simplify connecting to Amazon AWS EC2 instances. 
-- Ever wanted to SSM, WinSCP or RDP to your Linux instances with a single click? Give it a try!
+- Ever wanted to connect to your Windows or Linux instances with a single click? Give it a try!
 
 ## Functionality
 - Automatically reads your AWS 'credentials' file
+- Single click connection to SSM, WinSCP and RDP
 - Combobox to switch between AWS Profiles
 - Combobox to switch betwen AWS Regions
 - Auto lists all instances, providing details such as Instance Tag, Instance ID, Private IP Address, Instance Type, Platform and Availability Zone
-- Single click connection to SSM, WinSCP and RDP
 - Easily copy to clipboard: Instance ID, IP Address or CLI SSM Command
 
 ## Screenshots
