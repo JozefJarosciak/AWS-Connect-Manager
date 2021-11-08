@@ -2,8 +2,11 @@
 
 Open-source Windows tool to simplify connecting to Amazon AWS EC2 instances. Ever wanted to SSM, WinSCP or RDP to your Linux instances with a single click? Give it a try!
 
-## Screenshot
+## Screenshots
+Single-click SSM, WinSCP & RDP:
 ![alt tag](https://i.imgur.com/HIsf3Qr.png)
+Configuration Screen
+![alt tag](https://i.imgur.com/cDXhYPC.png)
 
 ## Prerequisites
 - .NET Framework 4.7.2 installed on Windows
