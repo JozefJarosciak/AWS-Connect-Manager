@@ -6,7 +6,7 @@
 - Automatically reads your AWS 'credentials' file
 - Combobox to switch between AWS Profiles
 - Combobox to switch betwen AWS Regions
-- Autolists all instances, providing details such as: Instance Tag, Instance ID, Private IP Address, Instance Type, Platform and Availability Zone
+- Auto lists all instances, providing details such as Instance Tag, Instance ID, Private IP Address, Instance Type, Platform and Availability Zone
 - Single click connection to SSM, WinSCP and RDP
 - Easily copy to clipboard: Instance ID, IP Address or CLI SSM Command
 
