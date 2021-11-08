@@ -2,6 +2,14 @@
 - Open-source Windows tool to simplify connecting to Amazon AWS EC2 instances. 
 - Ever wanted to SSM, WinSCP or RDP to your Linux instances with a single click? Give it a try!
 
+## Functionality
+- Automatically reads your AWS 'credentials' file
+- Combobox to switch between AWS Profiles
+- Combobox to switch betwen AWS Regions
+- Autolists all instances, providing details such as: Instance Tag, Instance ID, Private IP Address, Instance Type, Platform and Availability Zone
+- Single click connection to SSM, WinSCP and RDP
+- Easily copy to clipboard: Instance ID, IP Address or CLI SSM Command
+
 ## Screenshots
 - Single-click SSM, WinSCP & RDP:
  ![alt tag](https://i.imgur.com/HIsf3Qr.png)
