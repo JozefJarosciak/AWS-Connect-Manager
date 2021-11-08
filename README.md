@@ -46,12 +46,10 @@ Note: If you want SCP auto-login, you need to configure advanced settings and un
 - Run: AWS-Connect-Manager.exe
 
 # Source Code & Licensing
-- Application is coded entirely in C# using Visual Studio. 
-- No third-party dependencies except ConEmu (open-source tabbed terminal emulator for Windows). 
-
-# License
 - This project is open-source released under GNU GENERAL PUBLIC LICENSE - Version 2, June 1991.
 - Feel free to fork and further enhance this project.
+- Application is coded entirely in C# using Visual Studio. 
+- No third-party dependencies except ConEmu (open-source tabbed terminal emulator for Windows). 
 
 # Support
 - Having trouble? Contact me, I'll try to help as much as I can.
