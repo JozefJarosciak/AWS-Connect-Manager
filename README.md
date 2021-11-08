@@ -17,7 +17,13 @@ Configuration Screen
 - ConEmu (auto packaged in the Winndows download)
 
 # Application Download
-You can download the application in zip format here:
+You can download the yhe initial release of AWS Connect Manager for Windows (v1.0.0) in zip format from GitHub release page:
+https://github.com/JozefJarosciak/AWS-Connect-Manager/releases/download/v1.0.0/AWS_Connect_Manager-1.0.0.zip
+
+# Application Installation
+- Download AWS_Connect_Manager-1.0.0.zip
+- Unzip
+- Run: AWS-Connect-Manager.exe
 
 # Source Code & Licensing
 Application is coded entirely in C# using Visual Studio. No third party dependencies except ConEmu (open-source tabbed terminal emulator for Windows). 
