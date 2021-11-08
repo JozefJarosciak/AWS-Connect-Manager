@@ -6,8 +6,8 @@ Windows tool to simplify connecting to Amazon AWS EC2 instances. Ever wanted to 
 ![alt tag](https://i.imgur.com/HIsf3Qr.png)
 
 ## Prerequisites
-AWS CLI
-AWS Credential File (.aws/credentials)
-Session Manager plugin for the AWS CLI
-WinSCP
-ConEmu
+- AWS CLI
+- AWS Credential File (.aws/credentials)
+- Session Manager plugin for the AWS CLI
+- WinSCP
+- ConEmu (auto packaged in the Winndows download)
