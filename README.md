@@ -54,7 +54,8 @@ Note: If you want SCP auto-login, you need to configure advanced settings and un
 - Feel free to fork and further enhance this project.
 
 # Support
-Having trouble? Contact me, I'll try to help as much as I can.
+- Having trouble? Contact me, I'll try to help as much as I can.
+- Or contact me in this dedicated reddit post: https://www.reddit.com/r/aws/comments/qp5h6y/opensource_aws_connect_manager_for_windows_ssm/
 
 # Author / Contact
 - Jozef Jarosciak 
